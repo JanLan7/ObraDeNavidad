@@ -1,28 +1,42 @@
 *{
     text-align: center;
     background-color: pink;
+    
+    
 }
 #Esme{
     background-color: aqua;
+  
 }
 #Vicky{
     background-color: blueviolet;
+   
 }
 #Fenix{
     background-color: brown;
+    
 }
 #Florchi{
     background-color: yellow;
+    
 }
 
 #Scrooge{
     background-color: coral;
+  
 }
 
 #Todas{
     background-color: chartreuse;
+    
 
 }
 #Todos{
     background-color: darkgrey;
+    
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
 }
